@@ -3,7 +3,6 @@
 # Install Homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew tap caskroom/cask
-brew install caskroom/cask/brew-cask
 
 # Install libraries
 brew install aws-sam-cli
@@ -29,6 +28,7 @@ brew cask install atom
 brew cask install datagrip
 brew cask install docker
 brew cask install google-chrome
+brew cask install fantastical
 brew cask install firefox
 brew cask install intellij-idea
 brew cask install iterm2
