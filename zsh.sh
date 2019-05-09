@@ -9,4 +9,6 @@ eval $(thefuck --alias)
 export GOPATH=$HOME/golang
 export GOROOT=/usr/local/opt/go/libexec
 export PATH=$PATH:$GOPATH/bin
-export PATH=$PATH:$GOROOT/binjustin' >> ~/.zshrc
+export PATH=$PATH:$GOROOT/binjustin
+
+plugins=(aws git)' >> ~/.zshrc
