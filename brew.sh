@@ -25,6 +25,7 @@ brew install zsh-completions
 
 # Install apps
 brew cask install atom
+brew cask install clipy
 brew cask install datagrip
 brew cask install docker
 brew cask install google-chrome
@@ -38,6 +39,9 @@ brew cask install pycharm
 brew cask install quip
 brew cask install spotify
 brew cask install sublime-text
+
+brew tap homebrew/cask-drivers
+brew cask install logitech-options
 
 # Aspirational
 # https://github.com/sidaf/homebrew-pentest
