@@ -9,7 +9,7 @@ brew install aws-sam-cli
 brew install awscli
 brew install azure-cli
 brew install go
-brew install imagemagick
+# brew install imagemagick
 brew install jq
 brew install libusb
 brew install python
@@ -24,6 +24,7 @@ brew install zsh
 brew install zsh-completions
 
 # Install apps
+brew cask install amazon-workdocs
 brew cask install atom
 brew cask install clipy
 brew cask install datagrip
@@ -42,6 +43,9 @@ brew cask install sublime-text
 
 brew tap homebrew/cask-drivers
 brew cask install logitech-options
+
+brew cask install java
+brew install bfg
 
 # Aspirational
 # https://github.com/sidaf/homebrew-pentest
