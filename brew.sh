@@ -47,8 +47,10 @@ brew cask install logitech-options
 brew cask install java
 brew install bfg
 
+# Kubernetes stuff
 brew tap weaveworks/tap
 brew install weaveworks/tap/eksctl
+brew install helm
 
 # Aspirational
 # https://github.com/sidaf/homebrew-pentest
