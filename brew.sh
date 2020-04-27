@@ -1,10 +1,10 @@
 #!/bin/sh
 
-# Install Homebrew
+### Install Homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew tap caskroom/cask
 
-# Install libraries
+### Install libraries
 brew install aws-sam-cli
 brew install awscli
 brew install azure-cli
@@ -12,8 +12,8 @@ brew install go
 # brew install imagemagick
 brew install jq
 brew install libusb
-brew install python
-brew install python@2
+brew install pyenv
+brew install pyenv-virtualenv
 # brew install sceptre
 brew install serverless
 brew install terraform
@@ -23,7 +23,7 @@ brew install wget
 brew install zsh
 brew install zsh-completions
 
-# Install apps
+### Install apps
 brew cask install amazon-workdocs
 brew cask install atom
 brew cask install clipy
@@ -47,12 +47,12 @@ brew cask install logitech-options
 brew cask install java
 brew install bfg
 
-# Kubernetes stuff
-brew tap weaveworks/tap
-brew install weaveworks/tap/eksctl
-brew install helm
+### Kubernetes stuff
+# brew tap weaveworks/tap
+# brew install weaveworks/tap/eksctl
+# brew install helm
 
-# Aspirational
-# https://github.com/sidaf/homebrew-pentest
+### Aspirational
+## https://github.com/sidaf/homebrew-pentest
 # brew tap sidaf/pentest
 # brew install sidaf/pentest/aircrack-ng
