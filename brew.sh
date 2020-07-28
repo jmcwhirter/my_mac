@@ -23,20 +23,24 @@ brew install wget
 brew install zsh
 brew install zsh-completions
 
+brew install mas
+# Magnet
+mas install 441258766
+
 ### Install apps
 brew cask install amazon-workdocs
 brew cask install atom
 brew cask install clipy
-brew cask install datagrip
+# brew cask install datagrip
 brew cask install docker
 brew cask install google-chrome
 brew cask install fantastical
 brew cask install firefox
-brew cask install intellij-idea
+# brew cask install intellij-idea
 brew cask install iterm2
 brew cask install muzzle
 brew cask install postman
-brew cask install pycharm
+# brew cask install pycharm
 brew cask install quip
 brew cask install spotify
 brew cask install sublime-text
