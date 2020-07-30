@@ -32,6 +32,7 @@ brew cask install amazon-workdocs
 brew cask install atom
 brew cask install clipy
 # brew cask install datagrip
+brew cask install drawio
 brew cask install docker
 brew cask install google-chrome
 brew cask install fantastical
@@ -42,8 +43,10 @@ brew cask install muzzle
 brew cask install postman
 # brew cask install pycharm
 brew cask install quip
+brew cask install slack
 brew cask install spotify
 brew cask install sublime-text
+brew cask install zoomus
 
 brew tap homebrew/cask-drivers
 brew cask install logitech-options
