@@ -26,9 +26,12 @@ brew install zsh-completions
 brew install mas
 # Magnet
 mas install 441258766
+# Clocker
+mas install 1056643111
 
 ### Install apps
 brew cask install amazon-workdocs
+brew cask install arq5
 brew cask install atom
 brew cask install clipy
 # brew cask install datagrip
@@ -36,9 +39,10 @@ brew cask install drawio
 brew cask install docker
 brew cask install google-chrome
 brew cask install fantastical
-brew cask install firefox
+# brew cask install firefox
 # brew cask install intellij-idea
 brew cask install iterm2
+brew cask install keepingyouawake
 brew cask install muzzle
 brew cask install postman
 # brew cask install pycharm
