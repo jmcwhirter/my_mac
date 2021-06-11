@@ -5,18 +5,18 @@
 brew tap caskroom/cask
 
 ### Install libraries
-brew install aws-sam-cli
+# brew install aws-sam-cli
 brew install awscli
-brew install azure-cli
+# brew install azure-cli
 brew install go
 # brew install imagemagick
 brew install jq
-brew install libusb
-brew install pyenv
-brew install pyenv-virtualenv
+# brew install libusb
+# brew install pyenv
+# brew install pyenv-virtualenv
 # brew install sceptre
-brew install serverless
-brew install terraform
+# brew install serverless
+# brew install terraform
 # brew install terraforming
 brew install thefuck
 brew install wget
@@ -55,8 +55,8 @@ brew cask install zoomus
 brew tap homebrew/cask-drivers
 brew cask install logitech-options
 
-brew cask install java
-brew install bfg
+# brew cask install java
+# brew install bfg
 
 ### Kubernetes stuff
 # brew tap weaveworks/tap
