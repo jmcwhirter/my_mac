@@ -2,7 +2,6 @@
 
 ### Install Homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-brew tap caskroom/cask
 
 ### Install libraries
 # brew install aws-sam-cli
@@ -30,30 +29,30 @@ mas install 441258766
 mas install 1056643111
 
 ### Install apps
-brew cask install amazon-workdocs
-brew cask install arq5
-brew cask install atom
-brew cask install clipy
-# brew cask install datagrip
-brew cask install drawio
-brew cask install docker
-brew cask install google-chrome
-brew cask install fantastical
-# brew cask install firefox
-# brew cask install intellij-idea
-brew cask install iterm2
-brew cask install keepingyouawake
-brew cask install muzzle
-brew cask install postman
-# brew cask install pycharm
-brew cask install quip
-brew cask install slack
-brew cask install spotify
-brew cask install sublime-text
-brew cask install zoomus
+brew install --cask amazon-workdocs
+brew install --cask arq5
+brew install --cask atom
+brew install --cask clipy
+# brew install --cask datagrip
+brew install --cask drawio
+brew install --cask docker
+brew install --cask google-chrome
+brew install --cask fantastical
+# brew install --cask firefox
+# brew install --cask intellij-idea
+brew install --cask iterm2
+brew install --cask keepingyouawake
+brew install --cask muzzle
+brew install --cask postman
+# brew install --cask pycharm
+brew install --cask quip
+brew install --cask slack
+brew install --cask spotify
+brew install --cask sublime-text
+brew install --cask zoomus
 
 brew tap homebrew/cask-drivers
-brew cask install logitech-options
+brew install --cask logitech-options
 
 # brew cask install java
 # brew install bfg
