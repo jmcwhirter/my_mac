@@ -7,9 +7,9 @@
 # brew install aws-sam-cli
 brew install awscli
 # brew install azure-cli
-brew install go
+# brew install go
 # brew install imagemagick
-brew install jq
+# brew install jq
 # brew install libusb
 # brew install pyenv
 # brew install pyenv-virtualenv
@@ -17,33 +17,33 @@ brew install jq
 # brew install serverless
 # brew install terraform
 # brew install terraforming
-brew install thefuck
-brew install wget
-brew install zsh
-brew install zsh-completions
+# brew install thefuck
+# brew install wget
+# brew install zsh
+# brew install zsh-completions
 
 brew install mas
 # Magnet
 mas install 441258766
 # Clocker
-mas install 1056643111
+# mas install 1056643111
 
 ### Install apps
 brew install --cask amazon-workdocs
 brew install --cask arq5
-brew install --cask atom
-brew install --cask clipy
+# brew install --cask atom
+# brew install --cask clipy
 # brew install --cask datagrip
 brew install --cask drawio
-brew install --cask docker
+# brew install --cask docker
 brew install --cask google-chrome
 brew install --cask fantastical
 # brew install --cask firefox
 # brew install --cask intellij-idea
 brew install --cask iterm2
 brew install --cask keepingyouawake
-brew install --cask muzzle
-brew install --cask postman
+# brew install --cask muzzle
+# brew install --cask postman
 # brew install --cask pycharm
 brew install --cask quip
 brew install --cask slack
