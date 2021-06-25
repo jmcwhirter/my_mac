@@ -30,12 +30,13 @@ mas install 441258766
 
 ### Install apps
 brew install --cask amazon-workdocs
-brew install --cask arq5
-# brew install --cask atom
+brew install --cask arq
+brew install --cask atom
 # brew install --cask clipy
 # brew install --cask datagrip
 brew install --cask drawio
 # brew install --cask docker
+brew install --cask gitkraken
 brew install --cask google-chrome
 brew install --cask fantastical
 # brew install --cask firefox
