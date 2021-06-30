@@ -29,7 +29,7 @@ mas install 441258766
 # mas install 1056643111
 
 ### Install apps
-brew install --cask amazon-workdocs
+brew install --cask amazon-workdocs-drive
 brew install --cask arq
 brew install --cask atom
 # brew install --cask clipy
